@@ -47,7 +47,7 @@ http://localhost:8000/gitlab
 ```
 >If everything is done correctly, the available tools will be displayed in the chat with an icon
 
->mspo runs on port `8000`, if you specify a link to `localhost:8000` then the tools will not be available. You must add each MCP server manually according to the pattern `localhost:8000/{mcp_server_name}`
+>mcpo runs on port `8000`, if you specify a link to `localhost:8000` then the tools will not be available. You must add each MCP server manually according to the pattern `localhost:8000/{mcp_server_name}`
 
 > `localhost:8000/server-name/docs` - openapi docs of your mcp server
 
